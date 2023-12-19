@@ -11,3 +11,6 @@ Tech Stack that will be used in this app.
 ## 
 
 <h1> Project is under development </h1>
+
+## Update Form Auth
+![Airbnb Register Auth form ](/public/updateImage/authform.png)
